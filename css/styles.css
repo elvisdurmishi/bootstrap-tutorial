@@ -132,10 +132,6 @@ p {
 #press {
   padding: 2% 7%;
   background-color: #ef8172;
-<<<<<<< HEAD
-=======
-  text-align: center;
->>>>>>> 66ae344d8316d7a4095f1780f4ba50faabebc604
 }
 
 .press-logo {
@@ -163,27 +159,12 @@ p {
 #cta {
   background-color: #ff4c68;
   color: #fff;
-<<<<<<< HEAD
-=======
-  text-align: center;
-  padding: 7% 15%;
-}
-
-.cta-title {
-  font-size: 3.5rem;
-  line-height: 1.5;
->>>>>>> 66ae344d8316d7a4095f1780f4ba50faabebc604
 }
 
 /* Footer Section */
 
 #footer {
   background-color: #ef8172;
-<<<<<<< HEAD
-=======
-  text-align: center;
-  padding: 7% 15%;
->>>>>>> 66ae344d8316d7a4095f1780f4ba50faabebc604
 }
 
 .footer-text {
